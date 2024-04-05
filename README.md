@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mayrinha89
+- 👋 Hi, eu sou @mayrinha89
 - 👀 I’m interested in Tenho interesse nas áreas de Otimização, Ciência de Dados, Séries Temporais, Finanças, Computação Quântica e Programação Funcional.
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
